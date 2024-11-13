@@ -1,7 +1,7 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-front-color: #9d2ff8;
+    --card-back-color: #f558b3;
 }
 
 body {
@@ -25,7 +25,7 @@ body {
 }
 
 .cartao__conteudo {
-    background-color: var(--card-front-color);
+    background-image: url(https://s5.static.brasilescola.uol.com.br/be/2021/12/bandeira-da-italia.jpg);
     text-align: center;
     /* background-color: aquamarine; */
     height: 100%;
