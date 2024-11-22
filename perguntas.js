@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Mundo teen',
+    ' Qual atriz e cantora estrelou a série Hannah Montana?',
+    'Miley Cyrus.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Mundo Marvel',
+    'Qual é o nome do super-herói com um escudo de estrela nos filmes da Marvel?',
+    'Capitão America'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Mundo Marvel',
+    'Quem interpretou Homem de Ferro nos filmes da Marvel?',
+    'Robert Downey Jr.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Mundo pop',
+    ' Qual cantora é famosa por usar vestidos extravagantes, como o de carne?',
+    'Lady Gaga.'
 )
